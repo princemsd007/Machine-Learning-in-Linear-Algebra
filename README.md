@@ -1,0 +1,2 @@
+# Machine-Learning-in-Linear-Algebra
+In this repo, we will look at what linear algebra and machine learning are and as the  category of machine learning is closely related to statistics, first we will investigate a brief  explanation of the statistical concepts. Then we will see the application of linear algebra,  especially matrices and vectors in machine learning algorithms such as linear regression and  support vector machines.
